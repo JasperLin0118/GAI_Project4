@@ -1,4 +1,4 @@
-# GAI_HW4
+# GAI_Project4
 
 ## Overview
 In this project, we are asked to introduce gradual denoising steps during the DIP training process, similar to the denoising steps in DDPM. By adding noise to the target image at different levels and using these noisy versions as intermediate targets, then guide the DIP model to learn a hierarchical representation of the image.
